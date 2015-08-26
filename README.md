@@ -1,2 +1,3 @@
-# docker-phantomjs-consul
+# PhantomJS Consul
 PhantomJS as a Service
+Includes Node.js & Consul
